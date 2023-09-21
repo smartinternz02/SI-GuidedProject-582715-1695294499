@@ -1,0 +1,17 @@
+﻿Assignment 2                                                                Ajitava Das
+
+
+
+
+Kali Linux is a popular Linux distribution designed for penetration testing and ethical hacking. It includes over 600 pre-installed tools for a variety of tasks, such as information gathering, vulnerability analysis, exploitation, and post-exploitation.
+Here is a brief description of 10 Kali Linux tools:
+1. Nmap: Nmap is a network scanner that can be used to discover hosts on a network and identify the services they are running.
+2. Wireshark: Wireshark is a network traffic analyzer that can be used to capture and analyze network packets.
+3. Metasploit Framework: Metasploit is an open-source framework that provides a variety of tools for exploiting vulnerabilities and gaining access to systems.
+4. Aircrack-ng: Aircrack-ng is a suite of tools for cracking wireless passwords.
+5. John the Ripper: John the Ripper is a password cracking tool that can be used to crack a variety of password types, including hashes.
+6. sqlmap: sqlmap is a tool for exploiting SQL injection vulnerabilities.
+7. Autopsy: Autopsy is a digital forensics tool that can be used to analyze computer systems and extract evidence.
+8. Social Engineering Toolkit (SET): SET is a toolkit for performing social engineering attacks.
+9. Nessus: Nessus is a vulnerability scanner that can be used to identify vulnerabilities on computer systems.
+10. Burp Suite: Burp Suite is a web application security testing tool that can be used to identify vulnerabilities in web applications.
